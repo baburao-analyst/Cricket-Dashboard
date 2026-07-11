@@ -193,6 +193,6 @@ https://github.com/baburao-analyst
 
 ---
 
-## ⭐ If you found this project useful...
+## ⭐ Support
 
-Please consider giving this repository a ⭐ on GitHub.
+If you found this project helpful, consider giving this repository a ⭐ on GitHub.
