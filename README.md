@@ -1,5 +1,14 @@
 # 🏏 Dynamic Cricket Performance Analytics Dashboard
 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=microsoft&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MIT_License-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white"/> 
+</p>
+
 ![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 > An interactive Power BI dashboard that provides comprehensive batting and bowling performance analysis for cricket players using dynamic DAX measures, slicers, and advanced data visualization.
