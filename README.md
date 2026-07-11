@@ -122,7 +122,7 @@ Dynamic-Cricket-Performance-Analytics-Dashboard
 
 ### Main Dashboard
 
-![Dashboard](Dashboard%20Screenshot.png)
+![Dashboard](Assets/dashboard.png)
 
 ---
 
